@@ -30,3 +30,7 @@ The project covers the following key tasks:
 1. Clone the repository:
    ```bash
    git clone https://github.com/AdityaDomala/EDA_Ultra-Marathon-Running-Project.git
+2. Install the required packages:
+```bash
+pip install -r requirements.txt
+
