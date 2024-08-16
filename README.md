@@ -29,4 +29,4 @@ The project covers the following key tasks:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ultra-marathon-eda.git
+   git clone https://github.com/AdityaDomala/EDA_Ultra-Marathon-Running-Project.git
